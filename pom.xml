@@ -20,7 +20,7 @@
         <configuration>
 			<systemPropertyVariables>
 				<htmlpath>report/Spark.html</htmlpath>
-				<appurl>https://mamata.aksharatraining.in/pos/public/#</appurl>
+				<appurl>https://mamata.aksharatraining.in/pos/public/login</appurl>
 				<grid>no</grid>
 				<browser>chrome</browser>
 				<pptfile>qa.properties</pptfile>
